@@ -1,0 +1,13 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 302.76 207.42">
+  <defs>
+    <style>.cls-1{fill:#fff;stroke:#fff;stroke-miterlimit:10;}</style>
+  </defs>
+  <!-- Letter M -->
+  <path class="cls-1" d="M230,308.21V147.56h23l27,65.47,27-65.47h23V308.21h-20V194.5l-30,71.5-30-71.5V308.21Z" transform="translate(-208.62 -146.29)"/>
+  <!-- Letter A -->
+  <path class="cls-1" d="M337,353.21L410,146.79h25l73,206.42h-22l-18-50H375l-18,50Zm46-70h64l-32-99Z" transform="translate(-208.62 -146.29)"/>
+  <!-- Underlines -->
+  <rect class="cls-1" x="0.5" y="173.98" width="119.37" height="6.89"/>
+  <rect class="cls-1" y="187" width="119.37" height="6.89"/>
+  <rect class="cls-1" y="200.02" width="119.37" height="6.89"/>
+</svg>
